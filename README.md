@@ -22,7 +22,7 @@ Sanger sequencing **(1st)** \u2192 Next-Generation Sequencing (NGS) **(2nd)** \u
 #### Weekly plan
 
 |   | Sun-Wed | Thu | Fri | Sat |
-|---|---------|-----|-----|-----|
+|：---：|:---------:|:-----:|:-----:|:-----：|
 |morning|--|--|--|homework|
 |afternoon|--|preview|class|--|
 |evening|--|preview(if not finished)|homework and review|homework(if not finished)|
@@ -30,7 +30,7 @@ Sanger sequencing **(1st)** \u2192 Next-Generation Sequencing (NGS) **(2nd)** \u
 #### Semester plan
 
 |week|programming skill|topic|others|
-|---|-----------------|-----|-------|
+|：--：|:-----------------:|:-----:|:------:|
 |1|linux|basic skill|--|
 |2|linux|basic skill|--|
 |3|linux|basic skill|--|
