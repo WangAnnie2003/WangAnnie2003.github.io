@@ -50,4 +50,5 @@ Sanger sequencing **(1st)** \u2192 Next-Generation Sequencing (NGS) **(2nd)** \u
 |15|R|machine learning|experience sharing|
 |16|R|machine learning|experience sharing|
 
-NEW Version
+王安昊
+2024.3.2
